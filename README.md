@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on proxy
 - 🌱 I’m currently learning c++,lua
-- 🤔 I’m looking for help with proxy
+- 🤔 I’m looking for help for update my proxy
 -->
